@@ -1,0 +1,2 @@
+# -Machine-Learning-Based-Network-Intrusion-Detection-System-Deployed-Using-FastAPI
+Machine Learning–based Network Intrusion Detection System using the NSL-KDD dataset. Implements a Random Forest classifier for detecting normal and malicious network traffic. Deployed as a FastAPI REST API with real-time prediction and web interface, integrating preprocessing, model serialization, and scalable backend deployment.
